@@ -1,3 +1,6 @@
+package solution;
+import reference.ListNode;
+
 public class Q237 {
 
 	public static void main(String args[]) {

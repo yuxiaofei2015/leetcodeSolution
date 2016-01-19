@@ -1,3 +1,6 @@
+package solution;
+import reference.TreeNode;
+
 public class Q226 {
 	public TreeNode invertTree(TreeNode root) {
 		if (root != null) {
