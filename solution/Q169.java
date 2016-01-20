@@ -1,12 +1,5 @@
 package solution;
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Set;
-
-import reference.Util;
-
 public class Q169 {
 	/* 第一次的思路：用hashMap保存结果 。时间上明显超出大部分结果 */
 	// public int majorityElement(int[] nums) {
