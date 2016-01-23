@@ -2,7 +2,7 @@ package solution;
 
 import reference.ListNode;
 
-public class Q83 {
+public class Q083 {
 	public ListNode deleteDuplicates(ListNode head) {
 		ListNode p = head;
 		while (p != null) {
