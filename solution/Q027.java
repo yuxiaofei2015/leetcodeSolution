@@ -13,9 +13,9 @@ public class Q027 {
 				continue;
 			}
 			if (nums[start] == val) {
-				int temp = nums[start];
+				int temp=nums[start];
 				nums[start] = nums[end];
-				nums[end] = temp;
+				nums[end]=temp;
 			} else {
 				start++;
 			}
