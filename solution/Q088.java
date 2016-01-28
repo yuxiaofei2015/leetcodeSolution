@@ -3,7 +3,7 @@ package solution;
 /**
  * Created by yuxiaofei on 2016/1/28.
  */
-public class Q88 {
+public class Q088 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int cur = m + n - 1;
         int i1 = m - 1;
